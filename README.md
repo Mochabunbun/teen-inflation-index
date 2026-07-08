@@ -12,6 +12,6 @@ The program processes price tracking sets across 5 core categories (Trendy Cloth
 2. Uses percentage change to establish distinct category inflation metrics.
 3. Aggregates values into an overall customized teenage consumer baseline index.
 
-## 🚀 Technologies Used
+## Technologies Used
 * **Python 3**
 * **Matplotlib** (Data Visualization)
