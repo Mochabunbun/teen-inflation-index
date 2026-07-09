@@ -23,9 +23,7 @@ Teen Inflation Tracker is a Python project that estimates how inflation affects 
 - Streaming
 
 ## Files
-
-passion_project.py
-Teen_Inflation_Research_Paper.pdf
+https://colab.research.google.com/drive/1OhojvnKNw-jbD-rSUMAWAqcc-Z2ZTwKR?usp=sharing
 ![Program Output Screenshot](test_case_3.png)
 
 Author: Janani Dandamudi
