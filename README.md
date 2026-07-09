@@ -1,17 +1,31 @@
-# teen-inflation-index
-A Python-based data project tracking microeconomic price shifts in teenage spending.
-## Core Findings
-* **Overall Teen Inflation Rate:** 15.39% 
-* **Highest Inflation Category:** Trendy Clothing (+46.95%)
-* **Deflation Category:** Movie Theaters (-10.71%)
-* **Consistent Tracking:** Streaming Services
+# Teen Inflation Tracker
 
-## How It Works
-The program processes price tracking sets across 5 core categories (Trendy Clothing, Fast Food, Movie Theaters, Gifts, and Streaming). 
-1. Calculates category averages for 2025 and 2026.
-2. Uses percentage change to establish distinct category inflation metrics.
-3. Aggregates values into an overall customized teenage consumer baseline index.
+## Overview
 
-## Technologies Used
-* **Python 3**
-* **Matplotlib** (Data Visualization)
+Teen Inflation Tracker is a Python project that estimates how inflation affects the purchasing power of teenagers by comparing average prices from 2025 and 2026.
+
+## Features
+- Calculates inflation rates
+- Compares multiple spending categories
+- Gives personalized budgeting advice
+- Displays graphs
+- Estimates purchasing power loss
+
+## Technologies
+- Python
+- Matplotlib
+
+## Categories
+- Clothing
+- Fast Food
+- Movie Theaters
+- Gifts
+- Streaming
+
+## Files
+
+passion_project.py
+Teen_Inflation_Research_Paper.pdf
+![Program Output Screenshot](test_case_3.png)
+
+Author: Janani Dandamudi
